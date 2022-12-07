@@ -9,7 +9,7 @@
   "author": "Eduardo Oviedo",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "paypal-rest-sdk": "^1.8.1"
   }
 }
